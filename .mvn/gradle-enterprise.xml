@@ -1,5 +1,9 @@
 <gradleEnterprise>
   <buildScan>
+    <tags>
+      <tag>backend-engineer</tag>
+      <tag>github-actions</tag>
+    </tags>
     <termsOfService>
       <url>https://gradle.com/terms-of-service</url>
       <accept>true</accept>
